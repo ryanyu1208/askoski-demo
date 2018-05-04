@@ -1,0 +1,5 @@
+<select class="col-sm-3 form-control" style="width:200px;" [(ngModel)]="courseId" name="courseId">  
+  <option [ngValue]=""></option>  
+  <option class="col-md-1" *ngFor="let course of courseData" [value]="course.id">{{course.name}}</option>  
+</select>  
+
