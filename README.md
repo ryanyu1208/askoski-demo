@@ -1,5 +1,5 @@
 # askoski-demo
-It a simple demo for askoski backend and frontend.
+A simple demo for askoski backend and frontend.
 
 ```
 askoski-demo
